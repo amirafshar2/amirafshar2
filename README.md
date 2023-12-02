@@ -1,16 +1,16 @@
 
 ![Tech Consultant business Banner](https://github.com/amirafshar2/amirafshar2/assets/152279280/57175866-44fc-42be-b111-1745c7020174)
 
-<h1 align="center">Hi , I'm Amir</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="left">Hi , I'm Amir</h1>
+<h3 align="left">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **JS , JQUERY , NET CORE , WORDPRESS ,İOS , ANDROİD**
+- 👨‍🎓 I’m currently learning **JS , JQUERY , NET CORE , WORDPRESS ,İOS , ANDROİD**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amirafshar2](https://github.com/amirafshar2)
+- 🦾 All of my projects are available at https://github.com/amirafshar2
 
-- 💬 Ask me about **C# .NET , HTML , CSS**
+- 💭 Ask me about **C# .NET , HTML , CSS**
 
-- 📫 How to reach me **amirafshar1@outlook.com**
+- 📧 How to reach me **amirafshar1@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
