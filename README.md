@@ -10,7 +10,7 @@
 
 - 💭 Ask me about **C# .NET , HTML , CSS**
 
-- 📧 How to reach me **amirafshar1@outlook.com**
+- 📧 How to reach me **amir_afshar1@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
