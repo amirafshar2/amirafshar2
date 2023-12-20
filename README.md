@@ -4,11 +4,11 @@
 <h1 align="left">Hi , I'm Amir</h1>
 <h3 align="left">A passionate developer from Turkey</h3>
 
-- 👨‍🎓 I’m currently learning **JS , JQUERY , NET CORE , WORDPRESS ,İOS , ANDROİD**
+- 👨‍🎓 I’m currently learning ** NET CORE , WORDPRESS ,İOS , ANDROİD**
 
 - 🦾 All of my projects are available at https://github.com/amirafshar2
 
-- 💭 Ask me about **C# .NET , HTML , CSS**
+- 💭 Ask me about **C# .NET , HTML , CSSJS , JQUERY**
 
 - 📧 How to reach me **amir_afshar1@outlook.com**
 
