@@ -8,7 +8,7 @@
 
 - 🦾 All of my projects are available at https://github.com/amirafshar2
 
-- 💭 Ask me about **C# .NET , HTML , CSSJS , JQUERY**
+- 💭 Ask me about **C# .NET , HTML , CSS , JS , JQUERY**
 
 - 📧 How to reach me **amir_afshar1@outlook.com**
 
