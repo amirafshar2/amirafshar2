@@ -1,5 +1,6 @@
 
-![Tech Consultant business Banner](https://github.com/amirafshar2/amirafshar2/assets/152279280/57175866-44fc-42be-b111-1745c7020174)
+![Tech Consultant business Banner](https://github.com/amirafshar2/amirafshar2/assets/152279280/f5e11537-5931-4aff-a0ab-c363a523ebf9)
+
 
 <h1 align="left">Hi , I'm Amir</h1>
 <h3 align="left">A passionate developer from Turkey</h3>
