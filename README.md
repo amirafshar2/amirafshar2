@@ -3,9 +3,9 @@
 
 
 <h1 align="left">Hi , I'm Amir</h1>
-<h3 align="left">A passionate developer from Turkey</h3>
+<h3 align="left">A passionate developer from İran</h3>
 
-- 👨‍🎓 I’m currently learning ** İOS , ANDROİD , Aİ , PHP **
+- 👨‍🎓 I’m currently learning ** İOS , ANDROİD  **
 
 - 🦾 All of my projects are available at https://github.com/amirafshar2
 
