@@ -3,7 +3,7 @@
 
 
 <h1 align="left">Hi , I'm Amir</h1>
-<h3 align="left">A passionate developer from İran</h3>
+
 
 - 👨‍🎓 I’m currently learning ** İOS , ANDROİD  **
 
