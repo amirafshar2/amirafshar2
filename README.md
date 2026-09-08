@@ -1,4 +1,5 @@
-![Tech Consultant business Banner](https://github.com/amirafshar2/amirafshar2/assets/152279280/f5e11537-5931-4aff-a0ab-c363a523ebf9) <h1 align="left">Hi , I'm Amir</h1> - 👨‍🎓 I’m currently learning ** İOS , ANDROİD ** - 🦾 All of my projects are available at https://github.com/amirafshar2 - 💭 Ask me about **C# , HTML , CSS , JS ,ASP.NET CORE , Java , Python , SQL , BOOTSTRAP ** - 📧 How to reach me **amir_afshar1@outlook.com**<h3 align="left">Connect with me:</h3>
+![Tech Consultant business Banner](https://github.com/user-attachments/assets/99172daa-8e52-406e-8df6-a99f31b57a14) <h1 align="left">Hi , I'm Amir</h1> - 👨‍🎓 I’m currently learning ** İOS , ANDROİD ** - 🦾 All of my projects are available at https://github.com/amirafshar2 - 💭 Ask me about **C# , HTML , CSS , JS ,ASP.NET CORE , Java , Python , SQL , BOOTSTRAP ** - 📧 How to reach me **amir_afshar1@outlook.com**<h3 align="left">Connect with me:</h3>
+
 
 <table style="border:none;">
 <tr>
