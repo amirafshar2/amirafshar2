@@ -1,36 +1,91 @@
-![Tech Consultant business Banner](https://github.com/user-attachments/assets/99172daa-8e52-406e-8df6-a99f31b57a14) <h1 align="left">Hi , I'm Amir</h1> - 👨‍🎓 I’m currently learning ** İOS , ANDROİD ** - 🦾 All of my projects are available at https://github.com/amirafshar2 - 💭 Ask me about **C# , HTML , CSS , JS ,ASP.NET CORE , Java , Python , SQL , BOOTSTRAP ** - 📧 How to reach me **amir_afshar1@outlook.com**<h3 align="left">Connect with me:</h3>
+<div align="center">
 
+<img src="https://github.com/user-attachments/assets/99172daa-8e52-406e-8df6-a99f31b57a14" alt="Tech Consultant business Banner" width="100%"/>
 
-<table style="border:none;">
-<tr>
+<br/>
 
-<td style="border:none;">
-<a href="https://linkedin.com/in/amir-afshar-83a26a2a2" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amir+%F0%9F%91%8B;Application+Developer;.NET+%7C+Java+%7C+Python+%7C+SQL" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://amirrezaafshar.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-amirrezaafshar.onrender.com-8B5CF6?style=for-the-badge&labelColor=141414" alt="Portfolio Website"/>
 </a>
-</td>
 
-<td style="border:none;">
-<a href="https://instagram.com/amir_afshar______" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</td>
+</div>
 
+<br/>
 
+## 👨‍💻 About Me
 
-</tr>
-</table><h3 align="left">Languages and Tools:</h3>
+- 👨‍🎓 Currently learning **iOS** & **Android** development
+- 🦾 All of my projects are available at **[github.com/amirafshar2](https://github.com/amirafshar2)**
+- 💭 Ask me about **C#, HTML, CSS, JS, ASP.NET Core, Java, Python, SQL, Bootstrap**
+- 📧 Reach me at **amir_afshar1@outlook.com**
+- 🏆 Former national-level wrestler — discipline and consistency carry straight into how I code
 
-<table border="0">
-<tr border="0">
-<td border="0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"></td>
-<td border="0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"></td>
-<td border="0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></td>
-<td border="0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"></td>
-<td border="0"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"></td>
-<td border="0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></td>
-<td border="0"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"></td>
-<td border="0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></td>
-<td border="0"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"></td>
-</tr>
-</table>
+<br/>
+
+## 🔗 Connect with me
+
+<div align="left">
+  <a href="https://linkedin.com/in/amir-afshar-83a26a2a2" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
+  </a>
+  <a href="https://instagram.com/amir_afshar______" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" />
+  </a>
+  <a href="mailto:amir_afshar1@outlook.com" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="35" width="45" />
+  </a>
+</div>
+
+<br/>
+
+## 🛠️ Languages & Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,css,html,js,git,java,python,sql,bootstrap&theme=dark" />
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirafshar2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=141414&title_color=8B5CF6&icon_color=8B5CF6" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirafshar2&theme=tokyonight&hide_border=true&background=141414&ring=8B5CF6&fire=8B5CF6" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirafshar2&layout=compact&theme=tokyonight&hide_border=true&bg_color=141414&title_color=8B5CF6" height="165"/>
+</div>
+
+<br/>
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<!-- به محض اجرا شدن GitHub Action زیر، این عکس خودکار پر می‌شه -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirafshar2/amirafshar2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirafshar2/amirafshar2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/amirafshar2/amirafshar2/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://amirrezaafshar.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Check_out_my_live_website_→-141414?style=for-the-badge" alt="Website"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirafshar2&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
+</div>
