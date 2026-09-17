@@ -8,8 +8,8 @@
 
 <br/><br/>
 
-<a href="https://amirrezaafshar.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-amirrezaafshar.onrender.com-8B5CF6?style=for-the-badge&labelColor=141414" alt="Portfolio Website"/>
+<a href="https://amirrezaafshar.de" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-www.amirrezaafshar.de-8B5CF6?style=for-the-badge&labelColor=141414" alt="Portfolio Website"/>
 </a>
 
 </div>
@@ -35,9 +35,11 @@
   <a href="https://instagram.com/amir_afshar______" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" />
   </a>
-  <a href="mailto:amir_afshar1@outlook.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="35" width="45" />
-  </a>
+  <a href="mailto:info@amirrezaafshar.de" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="35" width="45" />
+</a>
+
+
 </div>
 
 <br/>
@@ -50,18 +52,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirafshar2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=141414&title_color=8B5CF6&icon_color=8B5CF6" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirafshar2&theme=tokyonight&hide_border=true&background=141414&ring=8B5CF6&fire=8B5CF6" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirafshar2&layout=compact&theme=tokyonight&hide_border=true&bg_color=141414&title_color=8B5CF6" height="165"/>
-</div>
-
-<br/>
 
 ## 🐍 My Contribution Snake
 
@@ -79,7 +70,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://amirrezaafshar.onrender.com" target="_blank">
+  <a href="https://amirrezaafshar.de" target="_blank">
     <img src="https://img.shields.io/badge/-Check_out_my_live_website_→-141414?style=for-the-badge" alt="Website"/>
   </a>
 </div>
