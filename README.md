@@ -21,7 +21,7 @@
 - 👨‍🎓 Currently learning **iOS** & **Android** development
 - 🦾 All of my projects are available at **[github.com/amirafshar2](https://github.com/amirafshar2)**
 - 💭 Ask me about **C#, HTML, CSS, JS, ASP.NET Core, Java, Python, SQL, Bootstrap**
-- 📧 Reach me at **amir_afshar1@outlook.com**
+- 📧 Reach me at **info@amirrezaafshar.de**
 - 🏆 Former national-level wrestler — discipline and consistency carry straight into how I code
 
 <br/>
