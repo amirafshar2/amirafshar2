@@ -77,6 +77,3 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirafshar2&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
-</div>
